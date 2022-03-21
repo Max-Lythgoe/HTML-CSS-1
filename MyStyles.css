@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+/* @import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap") */
+
+h1 {
+    background-color: black;
+    color: white;
+    width: 100vw;
+    font-size: 60px;
+    padding: 3vh;
+    height: 5vh;
+    margin: 0;
+    text-align: center;
+    padding-top: 2.5vh;
+    background-image: url("https://static.wikia.nocookie.net/starwars/images/2/2c/Starfield.jpg/revision/latest?cb=20210820011702");
+    font-family: 'Oswald', sans-serif;
+    }
+
+h1 > span {
+    font-size: 30px;
+    margin: 5%;
+    font-weight: 200;
+}
+
+h2 {
+    color: #0096FF;
+    width: 100vw;
+    height: auto;
+    margin: 3vh;
+    text-align: center;
+    padding-top: 0;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Oswald', sans-serif;
+}
+
+h3 {
+    color: white;
+    width: 100vw;
+    height: auto;
+    margin-left: 5vh;
+    text-align: center;
+    padding-top: 0;
+    font-size: 35px;
+    font-weight: 600;
+    text-align: left;
+    font-family: 'Arial';
+}
+
+/* h3 > span {
+    text-align: left;
+    font-size: x-large;
+    width: 75%;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-weight: 300;
+} */
+
+p {
+    text-align: left;
+    font-size: x-large;
+    width: 75%;
+    margin: 5vh auto;
+    padding: 0;
+    color: white;
+    font-family: "Arial"
+}
+
+
+div {
+    border-top: solid 1px white;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+  }
+
+h4{
+    background-color: black;
+    color: white;
+    width: 100vw;
+    font-size: 60px;
+    padding: 0;
+    height: 5vh;
+    margin: 0;
+    text-align: center;
+    padding-top: 2.5vh;
+    background-video: 
+}
+
+video {
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+p > img {
+    width: 450px;
+    float: left;
+    margin: 0 20px 0 0;
+}
+
